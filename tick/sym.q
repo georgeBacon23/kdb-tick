@@ -1,0 +1,2 @@
+cryptoquotes:([]time:`timespan$(); sym:`g#`symbol$(); bid:`float$(); ask:`float$(); bsize:`float$(); asize:`float$())
+cryptotrades:([]time:`timespan$(); sym:`g#`symbol$(); price:`float$(); size:`float$())
